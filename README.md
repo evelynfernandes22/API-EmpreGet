@@ -1,6 +1,10 @@
 # API-EmpreGet
 Em desenvolvimento.
 
+Aplicativo de conectividade de prestadores de serviços domésticos e clientes para realização de diárias. 
+
+- Módulo01: Gestão de Leads.
+
 ## 📦 Desenvolvimento
 
 Utilizado Linguagem Java e Spring Boot seguindo os padrões Rest.
